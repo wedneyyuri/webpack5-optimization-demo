@@ -1,0 +1,14 @@
+{
+  "name": "webpack-demo",
+  "description": "webpack demo project to ilustrate tree shaking experiments",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.20"
+  }
+}
